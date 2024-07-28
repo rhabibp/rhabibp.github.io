@@ -3,33 +3,75 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>My Portfolio</title>
+    <title>John Doe - Android Developer</title>
     <link rel="stylesheet" href="styles.css">
 </head>
 <body>
     <header>
-        <h1>My Portfolio</h1>
-        <p>Welcome to my professional portfolio!</p>
+        <div class="container">
+            <h1>John Doe</h1>
+            <p>Android Developer</p>
+        </div>
     </header>
 
-    <section id="about">
-        <h2>About Me</h2>
-        <p>Brief description about yourself, your skills, and your interests.</p>
-    </section>
+    <nav>
+        <ul>
+            <li><a href="#about">About</a></li>
+            <li><a href="#projects">Projects</a></li>
+            <li><a href="#skills">Skills</a></li>
+            <li><a href="#contact">Contact</a></li>
+        </ul>
+    </nav>
 
-    <section id="projects">
-        <h2>Projects</h2>
-        <div class="project">
-            <h3>Project Name</h3>
-            <p>Description of the project. What did you do? What technologies did you use?</p>
-            <a href="https://github.com/username/project-repo" target="_blank">View on GitHub</a>
-        </div>
-        <!-- Repeat for more projects -->
-    </section>
+    <main class="container">
+        <section id="about">
+            <h2>About Me</h2>
+            <p>I'm a passionate Android developer with 5 years of experience creating innovative mobile applications. I love turning ideas into reality through clean, efficient code and user-friendly interfaces.</p>
+        </section>
+
+        <section id="projects">
+            <h2>Projects</h2>
+            <div class="project">
+                <h3>FitTrack</h3>
+                <p>A fitness tracking app that uses GPS and machine learning to provide personalized workout plans.</p>
+            </div>
+            <div class="project">
+                <h3>EcoScan</h3>
+                <p>An app that helps users identify eco-friendly products by scanning barcodes and providing sustainability information.</p>
+            </div>
+            <div class="project">
+                <h3>MindfulMinutes</h3>
+                <p>A meditation and mindfulness app featuring guided sessions and progress tracking.</p>
+            </div>
+        </section>
+
+        <section id="skills">
+            <h2>Skills</h2>
+            <div class="skills">
+                <span class="skill">Java</span>
+                <span class="skill">Kotlin</span>
+                <span class="skill">Android SDK</span>
+                <span class="skill">MVVM</span>
+                <span class="skill">Retrofit</span>
+                <span class="skill">Room</span>
+                <span class="skill">Jetpack Compose</span>
+                <span class="skill">Git</span>
+                <span class="skill">CI/CD</span>
+            </div>
+        </section>
+
+        <section id="contact">
+            <h2>Contact</h2>
+            <p>Email: john.doe@example.com</p>
+            <p>LinkedIn: linkedin.com/in/johndoe</p>
+            <p>GitHub: github.com/johndoe</p>
+        </section>
+    </main>
 
     <footer>
-        <p>&copy; 2024 My Portfolio. All rights reserved.</p>
-        <p><a href="https://github.com/username" target="_blank">GitHub</a> | <a href="mailto:email@example.com">Contact</a></p>
+        <div class="container">
+            <p>&copy; 2024 John Doe. All rights reserved.</p>
+        </div>
     </footer>
 </body>
 </html>
