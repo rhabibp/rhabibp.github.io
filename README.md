@@ -1,4 +1,4 @@
-# Hi there 👋, I'm [Your Name]
+# Hi there 👋, I'm Habibur Rahman
 
 ### 🚀 About Me
 - 🔭 I’m currently working on: [Your Current Project]
@@ -13,8 +13,8 @@
 - **Tools**: [Android Studio, Git, etc.]
 
 ### 📈 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=rhabibp&show_icons=true&theme=radical)
 
 ### 🔗 Connect with Me
-- [LinkedIn](https://www.linkedin.com/in/YourProfile)
-- [Twitter](https://twitter.com/YourHandle)
+
+- [Email](rhabibp@gmail.com)
