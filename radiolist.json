@@ -46,5 +46,11 @@
     "name": "Discoviva Nu Disco & Funky",
     "url": "https://manager.dhectar.fr:1205/stream",
     "imageLink": "https://dhectar.fr/img/upload/66f09b47d2f98.png"
+  },
+  {
+    "id": "9",
+    "name": "Mine",
+    "url": "https://icecast.walmradio.com:8443/jazz",
+    "imageLink": "https://dhectar.fr/img/upload/66f09b47d2f98.png"
   }
 ]
