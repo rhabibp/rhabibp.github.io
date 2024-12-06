@@ -2,49 +2,49 @@
   {
     "id": "1",
     "name": "Dhectar",
-    "url": "https://manager.dhectar.fr:1065/stream",
+    "url": "https://manager.dhectar.fr:1075/stream",
     "imageLink": "https://www.dhectar.fr/img/upload/6659b79dccdc8.jpg"
   },
   {
     "id": "2",
     "name": "Dhectar Hits",
-    "url": "https://manager.dhectar.fr:1095/stream",
+    "url": "https://manager.dhectar.fr:1105/stream",
     "imageLink": "https://www.dhectar.fr/img/upload/dhectar_hits.png65c78c634a3f1.png"
   },
   {
     "id": "3",
     "name": "Dhectar Mix",
-    "url": "https://manager.dhectar.fr:1365/stream",
+    "url": "https://manager.dhectar.fr:1375/stream",
     "imageLink": "https://dhectar.fr/img/upload/67014d2fa3888.png"
   },
   {
     "id": "4",
     "name": "Dhectar Pop",
-    "url": "https://manager.dhectar.fr:1195/stream",
+    "url": "https://manager.dhectar.fr:1225/stream",
     "imageLink": "https://dhectar.fr/img/upload/LOGO_DHECTAR_POP_.png651bec7f6e3a2.png"
   },
   {
     "id": "5",
     "name": "Discoviva Italo Disco",
-    "url": "https://manager.dhectar.fr:1045/stream",
+    "url": "https://manager.dhectar.fr:1125/stream",
     "imageLink": "https://dhectar.fr/img/upload/66f09b30d2baa.png"
   },
   {
     "id": "6",
     "name": "Discoviva Latino",
-    "url": "https://manager.dhectar.fr:1145/stream",
+    "url": "https://manager.dhectar.fr:1155/stream",
     "imageLink": "https://dhectar.fr/img/upload/66f09b3b11093.png"
   },
   {
     "id": "7",
     "name": "Discoviva Eurodance",
-    "url": "https://manager.dhectar.fr:1175/stream",
+    "url": "https://manager.dhectar.fr:1185/stream",
     "imageLink": "https://dhectar.fr/img/upload/66f09b419aa82.png"
   },
   {
     "id": "8",
     "name": "Discoviva Nu Disco & Funky",
-    "url": "https://manager.dhectar.fr:1205/stream",
+    "url": "https://manager.dhectar.fr:1215/stream",
     "imageLink": "https://dhectar.fr/img/upload/66f09b47d2f98.png"
   },
   {
