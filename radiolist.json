@@ -1,3 +1,11 @@
-{
-  "package_name": "com.moremotion.dhektar"
-}
+[
+  {
+    "package_name": "com.moremotion.dhektar"
+  },
+  {
+    "package_name": "com.moremotion.dhektar2"
+  },
+  {
+    "package_name": "com.moremotion.dhektar3"
+  }
+]
